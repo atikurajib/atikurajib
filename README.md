@@ -8,7 +8,7 @@
 
 🌱   My development skills include SDLC, Software Requirement Analysis,  C/C++, Java, DSA with Java, OOP with Java.
 
-🐢   You can follow me on [LinkedIn](https://www.linkedin.com/in/atikurajib), [Twitter](https://www.twitter.com/atikurajib), and [Instagram](https://www.instagram.com/atikurajib). Or send me an [Email](atikurajib@gmail.com).
+🐢   You can follow me on [LinkedIn](https://www.linkedin.com/in/atikurajib), [Twitter](https://www.twitter.com/atikurajib), and [Instagram](https://www.instagram.com/atikurajib). Or send me an email at atikurajib@gmail.com
 
 
 
