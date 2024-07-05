@@ -1,16 +1,18 @@
-## Hi there 👋
+### Atikur Rahman Rajib
 
-<!--
-**atikurajib/atikurajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏻   I am the founder of CodaSite - CodaSite is a blog site where content is published according to the needs of aspiring software engineers.
 
-Here are some ideas to get you started:
+👋🏻   I am the co-founder of CodeSinners - CodeSinners is a blog site where content is published according to the needs of software engineering students. It's a group of seven aspiring software engineers. Through this blog, we’re excited to document the software journey, share our insights, and provide valuable content to our fellow learners.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️   I am a writer for two popular technology blog sites that publish community troubleshooting, tutorials and technical updates.
+
+🌱   My development skills include SDLC, Software Requirement Analysis,  C/C++, Java, DSA with Java, OOP with Java.
+
+🐢   You can follow me on LinkedIn, Twitter, and Instagram. Or send me an email at atikurajib@gmail.com
+
+
+
+
+
+
+
