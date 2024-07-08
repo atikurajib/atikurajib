@@ -6,7 +6,7 @@
 
 ✍️   I am a writer for a popular technology blog site that publishes community troubleshooting, tutorials and technical updates.
 
-🌱   My development skills include SDLC, Software Requirement Analysis, C/C++, Java, DSA with Java, and OOP with Java. Now I am developing more skills to give better service to the software world.
+🌱   My development skills include SDLC, SRS, C/C++, Java, DSA, OOP, and many more. Now I am developing more skills to give better service to the software world.
 
 🐢   You can follow me on [LinkedIn](https://www.linkedin.com/in/atikurajib), [Twitter](https://www.twitter.com/atikurajib), and [Instagram](https://www.instagram.com/atikurajib). Or send me an email at atikurajib@gmail.com
 
