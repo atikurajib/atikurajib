@@ -1,5 +1,10 @@
 <h2 align="center">Atikur Rahman Rajib</h2>
 <h4 align="center">Software Engineer</h4>
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 <div align="center">
   <a href="mailto:atikurajib@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20" />
