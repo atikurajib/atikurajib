@@ -1,4 +1,4 @@
-### Atikur Rahman Rajib
+<h3 align="center">Atikur Rahman Rajib</h3>
 
 A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
 
