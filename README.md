@@ -1,10 +1,11 @@
 <h2 align="center">Atikur Rahman Rajib</h2>
+<h4 align="center">Coder 🥳</h4>
 <div align="center">
   <a href="mailto:atikurajib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20" />
   </a>
-  <a href="https://careers.google.com/yourprofilelink">
-    <img src="https://img.shields.io/badge/Google%20Careers-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" height="20" />
+  <a href="https://careers.google.com/atikurajib">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" height="20" />
   </a>
   <a href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
