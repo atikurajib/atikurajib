@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/atikurajib">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="20" />
   </a>
-  <br> <br> <br>
+  <br> <br>
 </div>
 
 A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
