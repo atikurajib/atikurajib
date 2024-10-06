@@ -4,7 +4,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 
 I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-<div> </br>
+<div> 
   <a href="mailto:atikurajib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20" />
   </a>
