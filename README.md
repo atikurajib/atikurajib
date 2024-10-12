@@ -11,6 +11,9 @@ I'm excited about the future opportunities that await me and dedicated to making
   <a href="https://careers.google.com/atikurajib">
     <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" height="20" />
   </a>
+  <a href="https://www.youtube.com/channel/UCVo8nDr9-9HYyDUvsJisOHg">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="20" />
+</a>
   <a href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
   </a>
