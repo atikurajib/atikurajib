@@ -8,7 +8,7 @@
 </p>
 
 <hr>
-<svg width="100%" height="2">
+<svg width="100%" height="1">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="1" />
 </svg>
 
@@ -16,7 +16,7 @@
 I'm a Java developer passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed. I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 - 🔭 I’m currently working on **Advance Java**.
-- 🌱 I’m learning **Spring** and **Spring Boot**.
+- 🌱 I’m learning **Frontend Development**.
 - 💬 Ask me about Java Development.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:your-email@example.com)
 
@@ -42,7 +42,7 @@ I'm a Java developer passionate about software engineering and building impactfu
 Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
 
 <hr>
-<svg width="100%" height="2">
+<svg width="100%" height="1">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="1" />
 </svg>
 
