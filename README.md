@@ -41,6 +41,7 @@ I'm a Java developer passionate about software engineering and building impactfu
 - 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )
 Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
 
+<hr>
 <svg width="100%" height="2">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="2" />
 </svg>
