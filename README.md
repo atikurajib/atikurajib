@@ -19,7 +19,7 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 
 - 🔭 I’m currently working on **Advance Java**.
 - 🌱 I’m learning **Frontend Development**.
-- 💬 Ask me about Java Development.
+- 💬 Ask me about **Java Development**.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:your-email@example.com)
 
 ### 💻 Tech Stack
