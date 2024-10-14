@@ -1,10 +1,10 @@
 <h2 align = "center">Hi there, I'm Rajib 👋</h2>
-<h4>Java Developer</h4>
+<h4 align = "center">Java Developer</h4>
 <div> 
-  <a href="mailto:atikurajib@gmail.com">
+  <a align = "center" href="mailto:atikurajib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20" />
   </a>
-  <a href="https://linkedin.com/in/atikurajib">
+  <a align = "center" href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
   </a>
 
