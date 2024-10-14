@@ -10,6 +10,7 @@
   </a>
 </p>
 <div class="line"></div>
+
 ### 🤖 About Me:
 I'm a Java developer passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed. I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
@@ -38,6 +39,8 @@ I'm a Java developer passionate about software engineering and building impactfu
 
 ### 🚀 Projects:
 - 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system ): Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
+
 <div class="line"></div>
+
 <h3 align="center">Let's connect and innovate together! 🚀</h3>
 
