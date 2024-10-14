@@ -1,16 +1,41 @@
-<h2 align = "center">Hi there, I'm Rajib 👋</h2>
-<h4 align = "center">Java Developer</h4>
-<div> 
-  <a align = "center" href="mailto:atikurajib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="20" />
+<h2 align="center">Hi there, I'm Rajib 👋</h2>
+<h3 align="center">Java Developer | Software Engineer</h3>
+
+<p align="center">
+  <a href="mailto:atikurajib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a align = "center" href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
+  <a href="https://linkedin.com/in/atikurajib">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
 
-A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
+### About Me:
+I'm a Java developer passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed. I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems.
+- 🔭 I’m currently working on [Grad](https://github.com/atikurajib/java-programming).
+- 🌱 I’m learning **Spring** and **Spring Boot**.
+- 📫 How to reach me: [atikurajib@gmail.com](mailto:your-email@example.com)
 
-I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+
+### GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+### Projects:
+- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/java-programming)
+- 🚀 [Grad](https://github.com/atikurajib/java-programming)
+
 
