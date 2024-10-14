@@ -38,8 +38,7 @@ I'm a Java developer passionate about software engineering and building impactfu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )
-Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
+- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )</br>Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
 
 <hr>
 <svg width="100%" height="0.5">
