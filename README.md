@@ -7,6 +7,7 @@
   </a>
 </p>
 
+<hr>
 <svg width="100%" height="2">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="2" />
 </svg>
