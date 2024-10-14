@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
-<h3 align="center">Java Developer | Software Engineer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
@@ -9,7 +9,7 @@
 
 <hr>
 <svg width="100%" height="2">
-  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="2" />
+  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="1" />
 </svg>
 
 ### 🤖 About Me:
@@ -32,7 +32,6 @@ I'm a Java developer passionate about software engineering and building impactfu
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-
 ### 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
 
@@ -44,7 +43,7 @@ Implementing this Bus Ticket Reservation System aims to streamline the ticketing
 
 <hr>
 <svg width="100%" height="2">
-  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="2" />
+  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="1" />
 </svg>
 
 <h3 align="center">Let's connect and innovate together! 🥳</h3>
