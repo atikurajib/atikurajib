@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
@@ -13,12 +13,12 @@
 </svg>
 
 ### 🤖 About Me
-I'm a full-stack Java developer passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
+I'm a passionate person about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 - 🔭 I’m currently working on **Advance Java**.
-- 🌱 I’m learning **Frontend Development**.
+- 🌱 I’m learning **Spring**.
 - 💬 Ask me about **Java Development**.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:atikurajib@gmail.com)
 
@@ -29,7 +29,6 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
   <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -40,7 +39,7 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )</br>Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators. This system is developed in C programming language.
+- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )</br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
 
 <hr>
 <svg width="100%" height="0.5">
