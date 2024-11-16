@@ -17,9 +17,9 @@ I'm a passionate person about software engineering and building impactful soluti
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-- 🔭 I’m currently working on **Advance Java**.
-- 🌱 I’m learning **Spring**.
-- 💬 Ask me about **Java Development**.
+- 🔭 I’m currently working on **Java Backend Project**.
+- 🌱 I’m learning **UI/UX with Figma**.
+- 💬 Ask me about **Software Development**.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:atikurajib@gmail.com)
 
 ### 💻 Tech Stack
