@@ -5,31 +5,17 @@
   <a href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
-<p align="center">
   <a href="https://codeforces.com/profile/your_username">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/your_username/">
+  <a href="https://leetcode.com/atikurajib/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/atikurajib">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
+  </a> 
 </p>
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/your_user_id/your_username">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-</p>
 
 <hr>
 <svg width="100%" height="0.5">
