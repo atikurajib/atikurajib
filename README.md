@@ -13,7 +13,10 @@
   </a>
   <a href="https://www.hackerrank.com/atikurajib">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a> 
+  </a>
+  <a href="https://stackoverflow.com/users/23569473/atikurajib">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </p>
 
 
