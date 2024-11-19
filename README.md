@@ -7,6 +7,30 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/your_username">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/your_username/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/your_username">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/your_user_id/your_username">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+</p>
+
 <hr>
 <svg width="100%" height="0.5">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5" />
@@ -28,7 +52,6 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
   <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
