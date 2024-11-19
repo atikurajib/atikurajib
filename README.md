@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
-<h3 align="center">Software Engineereing Enthusiast</h3> 
+<h3 align="center">Software Engineereing Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
@@ -21,7 +21,7 @@
 
 <hr>
 <svg width="100%" height="0.5">
-  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5" />
+  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5"/>
 </svg>
 
 ### 🤖 About Me
@@ -48,6 +48,7 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
+  </p>
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
