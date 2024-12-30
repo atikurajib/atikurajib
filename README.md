@@ -31,8 +31,8 @@ I'm a passionate person about software engineering and building impactful soluti
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-- 🔭 I’m currently working on **Java & Spring**.
-- 🌱 I’m learning **UI/UX**.
+- 🔭 I’m currently working on **Django Projcts**.
+- 🌱 I’m learning **UI/UX with Figma**.
 - 💬 Ask me about **Software Development**.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:atikurajib@gmail.com)
 
@@ -40,23 +40,16 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />  
 </p>
-
   </p>
 
 ### 📈 GitHub Stats
@@ -65,7 +58,8 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/Mini-Projects/tree/main/Durnibar%20-%20Bus%20%20Ticket%20Reservation%20System) </br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
+- 🔥 [Quiz Application] (https://github.com/atikurajib/Mini-Projects/tree/main/Triviator%20-%20Quiz%20Application) </br>Triviator is a mini Quiz Application. It's a lightweight, user-friendly program designed to test knowledge across various topics through a series of questions. It's a clean and interactive interface for navigating through questions and submitting answers. It supports multiple-choice formats and also tracks and displays user scores at the end of the quiz. This application is built using technologies like Java. It’s perfect for educational purposes or casual knowledge testing!
+- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/Mini-Projects/tree/main/Durnibar%20-%20Bus%20%20Ticket%20Reservation%20System) </br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators!
 
 <hr>
 <svg width="100%" height="0.5">
