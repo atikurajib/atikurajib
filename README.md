@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
-<h2 align="center">Software Developer</h2>
+<h3 align="center">AI Enthusiast || Software Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
@@ -31,7 +31,7 @@ I'm a passionate person about software engineering and building impactful soluti
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-- 🔭 I’m currently working on **Django Projcts**.
+- 🔭 I’m currently working on **Software Projects**.
 - 🌱 I’m learning **UI/UX with Figma**.
 - 💬 Ask me about **Software Development**.
 - 📫 How to reach me: [atikurajib@gmail.com](mailto:atikurajib@gmail.com)
