@@ -20,19 +20,15 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 </br>
 ![Django](https://img.shields.io/badge/Django-Beginner-FF0000?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-FF0000?style=flat-square&logo=node.js&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React.js-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-Beginner-FF0000?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-FF0000?style=flat-square&logo=mongodb&logoColor=white)
 </br>
 ![Git](https://img.shields.io/badge/Git-Beginner-FF0000?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-0000FF?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Expert-0000FF?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-16C47F?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
-### 📈 Stats
+### 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
