@@ -1,5 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
+![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
 
 ### 🤖 Intro
 I'm passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. I'm a problem-solving enthusiast who loves a challenge and works well under pressure. I'm always a team player but not afraid to take the lead when needed.
@@ -48,14 +48,11 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
  💰 [Bank Management Application](https://github.com/atikurajib/)
 
 ### 🌟 Interests
-![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
-![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=music&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-1E90FF?style=flat-square&logo=gaming&logoColor=white)
 ![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
-![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
-![Cricket](https://img.shields.io/badge/Cricket-Batsman-FF1D00?style=flat-square&logo=cricket-bat&logoColor=white)
 
-### 🤖 Handles
+
+### 🌐 Socials
  1️⃣ [LinkedIn](https://www.linkedin.com/in/atikurajib/) </br>
  2️⃣ [LeetCode](https://leetcode.com/u/atikurajib/) </br>
  3️⃣ [Codeforces](https://codeforces.com/profile/atikurajib)
