@@ -3,13 +3,13 @@
 
 <p align="center"> 
   <a href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="25">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
   </a>
   <a href="https://leetcode.com/atikurajib/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="25">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="30">
   </a>
   <a href="https://codeforces.com/profile/atikurajib">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="25">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="30">
   </a>
 </p>
 
@@ -59,8 +59,8 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-- 🔥 [Quiz Application](https://github.com/atikurajib/Mini-Projects/tree/main/Triviator%20-%20Quiz%20Application) </br>Triviator is a mini Quiz Application. It's a lightweight, user-friendly program designed to test knowledge across various topics through a series of questions. It's a clean and interactive interface for navigating through questions and submitting answers. It supports multiple-choice formats and also tracks and displays user scores at the end of the quiz. This application is built using technologies like Java. It’s perfect for educational purposes or casual knowledge testing!
-- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/Mini-Projects/tree/main/Durnibar%20-%20Bus%20%20Ticket%20Reservation%20System) </br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators!
+- 🔥 [Music Platform](https://github.com/atikurajib/)
+- 🔥 [E-Learning Platform](https://github.com/atikurajib/)
 
 ### 🎮 Hobbies & Interests
 ![Gaming](https://img.shields.io/badge/Gaming-Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
