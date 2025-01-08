@@ -33,7 +33,6 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" />
@@ -42,9 +41,22 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
   </p>
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atikurajib&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=atikurajib&theme=react-dark)](https://github.com/atikurajib/github-readme-activity-graph)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=atikurajib&theme=radical)
+
+![Snake Animation](https://github.com/atikurajib/atikurajib/blob/output/github-contribution-grid-snake.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
+
+![Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
+
 
 ### 🚀 Projects
 - 🔥 [Quiz Application](https://github.com/atikurajib/Mini-Projects/tree/main/Triviator%20-%20Quiz%20Application) </br>Triviator is a mini Quiz Application. It's a lightweight, user-friendly program designed to test knowledge across various topics through a series of questions. It's a clean and interactive interface for navigating through questions and submitting answers. It supports multiple-choice formats and also tracks and displays user scores at the end of the quiz. This application is built using technologies like Java. It’s perfect for educational purposes or casual knowledge testing!
