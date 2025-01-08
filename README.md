@@ -8,23 +8,20 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-Expert-0000FF?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-00FF00?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Beginner-FF0000?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=white)
 </br>
-![DSA](https://img.shields.io/badge/DSA-Intermediate-00FF00?style=flat-square&logo=codeforces&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Expert-0000FF?style=flat-square&logo=java&logoColor=white)
 </br>
 ![HTML](https://img.shields.io/badge/HTML-Beginner-FF0000?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Beginner-FF0000?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Beginner-FF0000?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white) 
 </br>
 ![Django](https://img.shields.io/badge/Django-Beginner-FF0000?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-FF0000?style=flat-square&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Beginner-FF0000?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Beginner-FF0000?style=flat-square&logo=node.js&logoColor=white) 
+![React.js](https://img.shields.io/badge/React.js-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-Beginner-FF0000?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-FF0000?style=flat-square&logo=mongodb&logoColor=white)
@@ -32,7 +29,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Git](https://img.shields.io/badge/Git-Beginner-FF0000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Expert-0000FF?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Expert-0000FF?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-00FF00?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-16C47F?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
 ### 📈 Stats
