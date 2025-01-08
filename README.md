@@ -27,10 +27,10 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills & Expertise
-![Python](https://img.shields.io/badge/Python-Expert-0000FF?style=flat-square&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-Expert-0000FF?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-00FF00?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-FF0000?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![DSA](https://img.shields.io/badge/DSA-Intermediate-00FF00?style=flat-square&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Expert-0000FF?style=flat-square&logo=java&logoColor=white)
@@ -39,7 +39,7 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![CSS](https://img.shields.io/badge/CSS-Beginner-FF0000?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Beginner-FF0000?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-Beginner-FF0000?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
 </br>
 ![Django](https://img.shields.io/badge/Django-Beginner-FF0000?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
@@ -52,28 +52,28 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Git](https://img.shields.io/badge/Git-Beginner-FF0000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Expert-0000FF?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Expert-0000FF?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-00FF00?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-00FF00?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-- 🔥 [Job Board Application](https://github.com/atikurajib/)
-- 🔥 [Real-Time Chat Application](https://github.com/atikurajib/)
-- 🔥 [Weather Application](https://github.com/atikurajib/)
-- 🔥 [Social Media Application](https://github.com/atikurajib/)
-- 🔥 [Music Application](https://github.com/atikurajib/)
-- 🔥 [Task Management Application](https://github.com/atikurajib/)
-- 🔥 [Bank Management Application](https://github.com/atikurajib/)
-- 🔥 [Movie-Series Rating Application](https://github.com/atikurajib/)
+🔥 [Job Board Application](https://github.com/atikurajib/)
+🔥 [Real-Time Chat Application](https://github.com/atikurajib/)
+🔥 [Weather Application](https://github.com/atikurajib/)
+🔥 [Social Media Application](https://github.com/atikurajib/)
+🔥 [Music Application](https://github.com/atikurajib/)
+🔥 [Task Management Application](https://github.com/atikurajib/)
+🔥 [Bank Management Application](https://github.com/atikurajib/)
 
 ### 🎮 Hobbies & Interests
-![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=ps5&logoColor=white)
 ![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=youtube-music&logoColor=white)
 ![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
 ![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
 ![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
+![Cricket](https://img.shields.io/badge/Cricket-Batsman-FF1D00?style=flat-square&logo=cricket-bat&logoColor=white)
 
 <hr>
 <svg width="100%" height="0.5">
