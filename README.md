@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Rajib 👋</h2>
+<h2 align="center">Atikur Rahman Rajib</h2>
 <h3 align="center">Software Development Engineer</h3>
 
 <p align="center"> 
