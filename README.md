@@ -41,7 +41,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
  💰 [Bank Management Application](https://github.com/atikurajib/)
 
 ### 🌟 Interests
-![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-E82561?style=flat-square&logo=gaming&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-PS%20Lover-E82561?style=flat-square&logo=gaming&logoColor=white)
 ![Movies](https://img.shields.io/badge/Movies-Cinephile-E82561?style=flat-square&logo=popcorn&logoColor=white)
 
 
