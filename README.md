@@ -1,15 +1,15 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
 <h3 align="center">Software Development Engineer</h3>
 
-<p align="center">
+<p align="center"> 
   <a href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="25">
   </a>
   <a href="https://leetcode.com/atikurajib/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="30">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="25">
   </a>
   <a href="https://codeforces.com/profile/atikurajib">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="30">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="25">
   </a>
 </p>
 
