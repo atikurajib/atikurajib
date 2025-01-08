@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="120">
   </a>
   <a href="https://leetcode.com/atikurajib/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="120">
   </a>
   <a href="https://codeforces.com/profile/atikurajib">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="120">
   </a>
 </p>
 
@@ -18,11 +18,8 @@
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5"/>
 </svg>
 
-![Gaming](https://img.shields.io/badge/Gaming-Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
-![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=youtube-music&logoColor=white)
-![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
-![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
+[![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
 
 ### 🤖 About Me
 I'm passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. I'm a problem-solving enthusiast who loves a challenge and works well under pressure. I'm always a team player but not afraid to take the lead when needed.
@@ -58,15 +55,23 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-FFD700?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
+### 🚀 Projects
+- 🔥 [Quiz Application](https://github.com/atikurajib/Mini-Projects/tree/main/Triviator%20-%20Quiz%20Application) </br>Triviator is a mini Quiz Application. It's a lightweight, user-friendly program designed to test knowledge across various topics through a series of questions. It's a clean and interactive interface for navigating through questions and submitting answers. It supports multiple-choice formats and also tracks and displays user scores at the end of the quiz. This application is built using technologies like Java. It’s perfect for educational purposes or casual knowledge testing!
+- 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/Mini-Projects/tree/main/Durnibar%20-%20Bus%20%20Ticket%20Reservation%20System) </br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators!
+
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
+
+### 🎮 Hobbies & Interests
+![Gaming](https://img.shields.io/badge/Gaming-Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
+![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=youtube-music&logoColor=white)
+![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
+![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
+![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
 
 <hr>
 <svg width="100%" height="0.5">
   <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5" />
 </svg>
-<h4 align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
-[![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
-</h4>
+
 <h3 align="center">Let's connect and innovate together! 🥳</h3>
