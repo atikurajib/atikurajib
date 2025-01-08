@@ -18,7 +18,7 @@
 </svg>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
+[![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
 
 ### 🤖 About Me
 I'm passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. I'm a problem-solving enthusiast who loves a challenge and works well under pressure. I'm always a team player but not afraid to take the lead when needed.
@@ -26,28 +26,40 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills & Expertise
-![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C#-Beginner-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![DSA](https://img.shields.io/badge/DSA-Intermediate-FFA500?style=flat-square&logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Expert-2E8B57?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Beginner-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Beginner-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Beginner-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Beginner-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Beginner-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Beginner-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-Beginner-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Beginner-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Expert-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-Expert-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+## 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-0000FF?style=flat-square&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-Intermediate-FFD700?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Beginner-FF0000?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=black)
+
+## 🔢 Concepts & Paradigms
+![DSA](https://img.shields.io/badge/DSA-Intermediate-FFD700?style=flat-square&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Expert-0000FF?style=flat-square&logo=java&logoColor=white)
+
+## 🌐 Frontend Development
+![HTML](https://img.shields.io/badge/HTML-Beginner-FF0000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Beginner-FF0000?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Beginner-FF0000?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-Beginner-FF0000?style=flat-square&logo=react&logoColor=black)
+
+## 🛠️ Backend Development
+![Django](https://img.shields.io/badge/Django-Beginner-FF0000?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Beginner-FF0000?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Beginner-FF0000?style=flat-square&logo=dotnet&logoColor=white)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-Beginner-FF0000?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-FF0000?style=flat-square&logo=mongodb&logoColor=white)
+
+## 🛡️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Beginner-FF0000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-0000FF?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Expert-0000FF?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FFD700?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
