@@ -1,18 +1,9 @@
 <h2 align="center">Hi there, I'm Rajib 👋</h2>
-<h3 align="center">AI Enthusiast || Software Developer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://threads.net/@atikurajib">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
-  <a href="https://stackoverflow.com/users/23569473/atikurajib">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-    <a href="https://www.hackerrank.com/atikurajib">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
   <a href="https://leetcode.com/atikurajib/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -39,8 +30,6 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge" alt="DSA" />
   <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" alt="OOP" />
