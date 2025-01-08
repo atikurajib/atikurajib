@@ -41,18 +41,11 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
  💰 [Bank Management Application](https://github.com/atikurajib/)
 
 ### 🌟 Interests
-![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-1E90FF?style=flat-square&logo=gaming&logoColor=white)
-![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-E82561?style=flat-square&logo=gaming&logoColor=white)
+![Movies](https://img.shields.io/badge/Movies-Cinephile-E82561?style=flat-square&logo=popcorn&logoColor=white)
 
 
 ### 🌐 Socials
  1️⃣ [LinkedIn](https://www.linkedin.com/in/atikurajib/) </br>
  2️⃣ [LeetCode](https://leetcode.com/u/atikurajib/) </br>
  3️⃣ [Codeforces](https://codeforces.com/profile/atikurajib)
-
-<hr>
-<svg width="100%" height="0.5">
-  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5" />
-</svg>
-
-<h3 align="center">Let's connect and innovate together! 🥳</h3>
