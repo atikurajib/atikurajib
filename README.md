@@ -21,12 +21,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
 
-### 🤖 About Me
+### 🤖 Intro
 I'm passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. I'm a problem-solving enthusiast who loves a challenge and works well under pressure. I'm always a team player but not afraid to take the lead when needed.
 
-I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
+I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-### 🛠️ Skills & Expertise
+### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-Expert-0000FF?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-00FF00?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-FF0000?style=flat-square&logo=csharp&logoColor=white)
@@ -55,21 +55,21 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-00FF00?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Expert-0000FF?style=flat-square&logo=windows&logoColor=white)
 
-### 📈 GitHub Stats
+### 📈 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-🔥 [Job Board Application](https://github.com/atikurajib/)
-🔥 [Real-Time Chat Application](https://github.com/atikurajib/)
-🔥 [Weather Application](https://github.com/atikurajib/)
-🔥 [Social Media Application](https://github.com/atikurajib/)
-🔥 [Music Application](https://github.com/atikurajib/)
-🔥 [Task Management Application](https://github.com/atikurajib/)
-🔥 [Bank Management Application](https://github.com/atikurajib/)
+👨🏻‍💻 [Job Board Application](https://github.com/atikurajib/) </br>
+📝 [Real-Time Chat Application](https://github.com/atikurajib/) </br>
+🌦️ [Weather Application](https://github.com/atikurajib/) </br>
+📱 [Social Media Application](https://github.com/atikurajib/) </br>
+🎵 [Music Application](https://github.com/atikurajib/) </br>
+✔️ [Task Management Application](https://github.com/atikurajib/) </br>
+💰 [Bank Management Application](https://github.com/atikurajib/)
 
-### 🎮 Hobbies & Interests
-![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=ps5&logoColor=white)
-![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=youtube-music&logoColor=white)
+### 🌟 Interests
+![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
+![Music](https://img.shields.io/badge/Music-Enthusiast-D00000?style=flat-square&logo=music&logoColor=white)
 ![Movies](https://img.shields.io/badge/Movies-Cinephile-FF4500?style=flat-square&logo=popcorn&logoColor=white)
 ![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
 ![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
