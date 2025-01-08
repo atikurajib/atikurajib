@@ -45,8 +45,6 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Movies](https://img.shields.io/badge/Movies-Cinephile-E82561?style=flat-square&logo=popcorn&logoColor=white)
 
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atikurajib)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/atikurajib) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/atikurajib)
+### 🌐 Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atikurajib)  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/atikurajib) [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/atikurajib)
 
