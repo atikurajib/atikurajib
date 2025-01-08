@@ -1,23 +1,3 @@
-<h2 align="center">Atikur Rahman Rajib</h2>
-<h3 align="center">Software Development Engineer</h3>
-
-<p align="center"> 
-  <a href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
-  </a>
-  <a href="https://leetcode.com/atikurajib/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="120" height="30">
-  </a>
-  <a href="https://codeforces.com/profile/atikurajib">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="120" height="30">
-  </a>
-</p>
-
-<hr>
-<svg width="100%" height="0.5">
-  <line x1="0" y1="0" x2="100%" y2="0" stroke="#000" stroke-width="0.5"/>
-</svg>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blueviolet)
 [![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=social)](https://github.com/atikurajib)
 
@@ -59,13 +39,13 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
-👨🏻‍💻 [Job Board Application](https://github.com/atikurajib/) </br>
-📝 [Real-Time Chat Application](https://github.com/atikurajib/) </br>
-🌦️ [Weather Application](https://github.com/atikurajib/) </br>
-📱 [Social Media Application](https://github.com/atikurajib/) </br>
-🎵 [Music Application](https://github.com/atikurajib/) </br>
-✔️ [Task Management Application](https://github.com/atikurajib/) </br>
-💰 [Bank Management Application](https://github.com/atikurajib/)
+ 👨🏻‍💻 [Job Board Application](https://github.com/atikurajib/) </br>
+ 📝 [Real-Time Chat Application](https://github.com/atikurajib/) </br>
+ 🌦️ [Weather Application](https://github.com/atikurajib/) </br>
+ 📱 [Social Media Application](https://github.com/atikurajib/) </br>
+ 🎵 [Music Application](https://github.com/atikurajib/) </br>
+ ✔️ [Task Management Application](https://github.com/atikurajib/) </br>
+ 💰 [Bank Management Application](https://github.com/atikurajib/)
 
 ### 🌟 Interests
 ![Gaming](https://img.shields.io/badge/Gaming-PS5%20Lover-0E0E10?style=flat-square&logo=xbox&logoColor=white)
@@ -74,6 +54,11 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Travel](https://img.shields.io/badge/Travel-Adventurer-1E90FF?style=flat-square&logo=world&logoColor=white)
 ![Photography](https://img.shields.io/badge/Photography-Shutterbug-FF9900?style=flat-square&logo=canon&logoColor=white)
 ![Cricket](https://img.shields.io/badge/Cricket-Batsman-FF1D00?style=flat-square&logo=cricket-bat&logoColor=white)
+
+### 🤖 Handles
+ 1️⃣ [LinkedIn](https://www.linkedin.com/in/atikurajib/) </br>
+ 2️⃣ [LeetCode](https://leetcode.com/u/atikurajib/) </br>
+ 3️⃣ [Codeforces](https://codeforces.com/profile/atikurajib)
 
 <hr>
 <svg width="100%" height="0.5">
