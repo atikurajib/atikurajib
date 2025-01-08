@@ -18,7 +18,7 @@
 </svg>
 
 ### 🤖 About Me
-I'm a passionate person about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. A problem-solving enthusiast who loves a challenge and works well under pressure. Always a team player, but not afraid to take the lead when needed.
+I'm passionate about software engineering and building impactful solutions. I enjoy working with cutting-edge technologies and collaborating in teams. I'm a problem-solving enthusiast who loves a challenge and works well under pressure. I'm always a team player but not afraid to take the lead when needed.
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
@@ -57,7 +57,10 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 
 ![Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
 
-
+![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=flat-square&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Database%20Lover-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ### 🚀 Projects
 - 🔥 [Quiz Application](https://github.com/atikurajib/Mini-Projects/tree/main/Triviator%20-%20Quiz%20Application) </br>Triviator is a mini Quiz Application. It's a lightweight, user-friendly program designed to test knowledge across various topics through a series of questions. It's a clean and interactive interface for navigating through questions and submitting answers. It supports multiple-choice formats and also tracks and displays user scores at the end of the quiz. This application is built using technologies like Java. It’s perfect for educational purposes or casual knowledge testing!
 - 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/Mini-Projects/tree/main/Durnibar%20-%20Bus%20%20Ticket%20Reservation%20System) </br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators!
