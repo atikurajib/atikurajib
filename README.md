@@ -7,7 +7,8 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-Intermediate-16C47F?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
@@ -19,6 +20,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 </br>
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-Beginner-FF0000?style=flat-square&logo=electron&logoColor=white)
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-Beginner-FF0000?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-FF0000?style=flat-square&logo=mongodb&logoColor=white)
