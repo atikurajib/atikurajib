@@ -16,11 +16,12 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 </br>
 ![HTML](https://img.shields.io/badge/HTML-Beginner-FF0000?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Beginner-FF0000?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white) 
 </br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Beginner-FF0000?style=flat-square&logo=bootstrap&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-Beginner-FF0000?style=flat-square&logo=springboot&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-Beginner-FF0000?style=flat-square&logo=react&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron.js-Beginner-FF0000?style=flat-square&logo=electron&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-Beginner-FF0000?style=flat-square&logo=java&logoColor=white)
 </br>
 ![MySQL](https://img.shields.io/badge/MySQL-Beginner-FF0000?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-FF0000?style=flat-square&logo=mongodb&logoColor=white)
