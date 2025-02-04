@@ -33,11 +33,12 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
 
 ### 🚀 Projects
- 👨🏻‍💻 [Job Board Application](https://github.com/atikurajib/) </br>
- 📝 [Real-Time Chat Application](https://github.com/atikurajib/) </br>
  🌦️ [Weather Application](https://github.com/atikurajib/) </br>
+ 🎵 [Music Application](https://github.com/atikurajib/) </br>
+ 📝 [Chat Application](https://github.com/atikurajib/) </br>
  📱 [Social Media Application](https://github.com/atikurajib/) </br>
- 🎵 [Music Application](https://github.com/atikurajib/)
+ 👨🏻‍💻 [Job Board Application](https://github.com/atikurajib/)
+
 
 ### 🌟 Interests
 ![Gaming](https://img.shields.io/badge/Gaming-PS%20Lover-E82561?style=flat-square&logo=gaming&logoColor=white)
