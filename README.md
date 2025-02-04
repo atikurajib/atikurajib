@@ -37,9 +37,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
  📝 [Real-Time Chat Application](https://github.com/atikurajib/) </br>
  🌦️ [Weather Application](https://github.com/atikurajib/) </br>
  📱 [Social Media Application](https://github.com/atikurajib/) </br>
- 🎵 [Music Application](https://github.com/atikurajib/) </br>
- ✔️ [Task Management Application](https://github.com/atikurajib/) </br>
- 💰 [Bank Management Application](https://github.com/atikurajib/)
+ 🎵 [Music Application](https://github.com/atikurajib/)
 
 ### 🌟 Interests
 ![Gaming](https://img.shields.io/badge/Gaming-PS%20Lover-E82561?style=flat-square&logo=gaming&logoColor=white)
