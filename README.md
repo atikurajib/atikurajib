@@ -10,27 +10,27 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Java](https://img.shields.io/badge/Java-Intermediate-0375b5?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Expert-0375b5?style=flat-square&logo=c-sharp&logoColor=white)
 </br>
-![DSA](https://img.shields.io/badge/DSA-Intermediate-AA60C8?style=flat-square&logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Expert-E82561?style=flat-square&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Intermediate-0375b5?style=flat-square&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Expert-0375b5?style=flat-square&logo=java&logoColor=white)
 </br>
-![HTML](https://img.shields.io/badge/HTML-Intermediate-AA60C8?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-AA60C8?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-EFB036?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-0375b5?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-0375b5?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-0375b5?style=flat-square&logo=javascript&logoColor=white)
 </br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-E82561?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Expert-E82561?style=flat-square&logo=angular&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-E82561?style=flat-square&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-0375b5?style=flat-square&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Expert-0375b5?style=flat-square&logo=angular&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-0375b5?style=flat-square&logo=dotnet&logoColor=white)
 </br>
-![SQL](https://img.shields.io/badge/SQL-Advanced-EFB036?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Advanced-EFB036?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-AA60C8?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-0375b5?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Advanced-0375b5?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-0375b5?style=flat-square&logo=mongodb&logoColor=white)
 </br>
-![REST API](https://img.shields.io/badge/REST%20API-Intermediate-AA60C8?style=flat-square&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-EFB036?style=flat-square&logo=graphql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-EFB036?style=flat-square&logo=microsoft-azure&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Intermediate-0375b5?style=flat-square&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-0375b5?style=flat-square&logo=graphql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-0375b5?style=flat-square&logo=microsoft-azure&logoColor=white)
 </br>
-![Git](https://img.shields.io/badge/Git-Intermediate-AA60C8?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-AA60C8?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-0375b5?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-0375b5?style=flat-square&logo=linux&logoColor=white)
 
 ### 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
