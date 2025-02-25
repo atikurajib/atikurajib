@@ -15,19 +15,19 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 </br>
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-16C47F?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-16C47F?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-FFD95F?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-Expert-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 </br>
-![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-FFD95F?style=flat-square&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-16C47F?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-16C47F?style=flat-square&logo=mongodb&logoColor=white)
 </br>
 ![REST API](https://img.shields.io/badge/REST%20API-Intermediate-16C47F?style=flat-square&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-FFD95F?style=flat-square&logo=graphql&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-FFD95F?style=flat-square&logo=microsoft-azure&logoColor=white)
 </br>
 ![Git](https://img.shields.io/badge/Git-Intermediate-16C47F?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-16C47F?style=flat-square&logo=linux&logoColor=white)
