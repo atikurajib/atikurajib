@@ -7,15 +7,15 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-Intermediate-0375b5?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Expert-0375b5?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-0375b5?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-0375b5?style=flat-square&logo=java&logoColor=white)
 </br>
-![DSA](https://img.shields.io/badge/DSA-Intermediate-0375b5?style=flat-square&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Expert-0375b5?style=flat-square&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Intermediate-0375b5?style=flat-square&logo=codeforces&logoColor=white)
 </br>
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-0375b5?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-0375b5?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-0375b5?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-0375b5?style=flat-square&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-Expert-0375b5?style=flat-square&logo=angular&logoColor=white)
