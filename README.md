@@ -13,8 +13,8 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Expert-0000FF?style=flat-square&logo=java&logoColor=white)
 </br>
-![HTML](https://img.shields.io/badge/HTML-Intermediate-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-16C47F?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-16C47F?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 </br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -22,15 +22,15 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 </br>
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-16C47F?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-16C47F?style=flat-square&logo=mongodb&logoColor=white)
 </br>
-![REST API](https://img.shields.io/badge/REST%20API-Intermediate-005571?style=flat-square&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Intermediate-16C47F?style=flat-square&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 </br>
-![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Intermediate-16C47F?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-16C47F?style=flat-square&logo=linux&logoColor=white)
 
 ### 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
