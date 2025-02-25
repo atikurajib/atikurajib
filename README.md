@@ -7,8 +7,8 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills
-![C](https://img.shields.io/badge/C-Intermediate-16C47F?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C#-Intermediate-16C47F?style=flat-square&logo=cs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-FF0000?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
