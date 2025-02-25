@@ -8,18 +8,18 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 
 ### 🛠️ Skills
 ![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Expert-E82561?style=flat-square&logo=c-sharp&logoColor=white)
 </br>
 ![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Expert-0000FF?style=flat-square&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Expert-E82561?style=flat-square&logo=java&logoColor=white)
 </br>
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-16C47F?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-16C47F?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-FFD95F?style=flat-square&logo=javascript&logoColor=white)
 </br>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Expert-DD0031?style=flat-square&logo=angular&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-E82561?style=flat-square&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Expert-E82561?style=flat-square&logo=angular&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-E82561?style=flat-square&logo=dotnet&logoColor=white)
 </br>
 ![SQL](https://img.shields.io/badge/SQL-Advanced-FFD95F?style=flat-square&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-16C47F?style=flat-square&logo=microsoft-sql-server&logoColor=white)
