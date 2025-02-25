@@ -7,14 +7,14 @@ I'm passionate about software engineering and building impactful solutions. I en
 I'm pursuing my bachelor's in Software Engineering at Daffodil International University. My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 ### 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-Intermediate-16C47F?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-08C2FF?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Expert-E82561?style=flat-square&logo=c-sharp&logoColor=white)
 </br>
-![DSA](https://img.shields.io/badge/DSA-Intermediate-16C47F?style=flat-square&logo=codeforces&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Intermediate-08C2FF?style=flat-square&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Expert-E82561?style=flat-square&logo=java&logoColor=white)
 </br>
-![HTML](https://img.shields.io/badge/HTML-Intermediate-16C47F?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-16C47F?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-08C2FF?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-08C2FF?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-EFB036?style=flat-square&logo=javascript&logoColor=white)
 </br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-E82561?style=flat-square&logo=bootstrap&logoColor=white)
@@ -22,15 +22,15 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-E82561?style=flat-square&logo=dotnet&logoColor=white)
 </br>
 ![SQL](https://img.shields.io/badge/SQL-Advanced-EFB036?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-16C47F?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-16C47F?style=flat-square&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-08C2FF?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-08C2FF?style=flat-square&logo=mongodb&logoColor=white)
 </br>
-![REST API](https://img.shields.io/badge/REST%20API-Intermediate-16C47F?style=flat-square&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Intermediate-08C2FF?style=flat-square&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-EFB036?style=flat-square&logo=graphql&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Advanced-EFB036?style=flat-square&logo=microsoft-azure&logoColor=white)
 </br>
-![Git](https://img.shields.io/badge/Git-Intermediate-16C47F?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-16C47F?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-08C2FF?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-08C2FF?style=flat-square&logo=linux&logoColor=white)
 
 ### 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
