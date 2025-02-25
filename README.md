@@ -22,7 +22,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Expert-E82561?style=flat-square&logo=dotnet&logoColor=white)
 </br>
 ![SQL](https://img.shields.io/badge/SQL-Advanced-EFB036?style=flat-square&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-Intermediate-AA60C8?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-Advanced-EFB036?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-AA60C8?style=flat-square&logo=mongodb&logoColor=white)
 </br>
 ![REST API](https://img.shields.io/badge/REST%20API-Intermediate-AA60C8?style=flat-square&logo=rest&logoColor=white)
