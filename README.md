@@ -33,7 +33,7 @@ I'm pursuing my bachelor's in Software Engineering at Daffodil International Uni
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-0375b5?style=flat-square&logo=linux&logoColor=white)
 
 ### 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=blueberry)
 
 ### 🚀 Projects
  🌦️ [Weather Application](https://github.com/atikurajib/) </br>
