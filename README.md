@@ -4,24 +4,16 @@
 
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
-#### Web App Development
--
--
--
-#### Android App Development
--
--
--
 #### Languages
-C/C++, Java, C#, HTML/CSS, XML, Ruby.
+C-C++, Java, C#, Ruby, HTML-CSS, XML.
 #### Frameworks
 .NET 9, .NET Framework 4.8, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, Blazor, Razor Pages, Bootstrap, Ruby on Rails. 
 #### Liabraries and API's
 LINQ, jQuery, Web API, REST API, GraphQL.
 #### Databases   
-PostgreSQL, SQL Server.
+PostgreSQL, SQL Server, Entity Framework Core (ORM).
 #### Paradigms
-Data Structure, Algorithm, Object-Oriented Programming, Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern.
+Data Structure, Algorithm, Object-Oriented Programming, Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern, Event-Driven Architecture, CQRS (Command Query Responsibility Segregation), Dependency Injection.
 #### Tools
 Git, Visual Studio Code, Android Studio.
 #### Handles
