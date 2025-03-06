@@ -15,7 +15,7 @@ LINQ, jQuery, Web API, REST API, GraphQL.
 #### Databases   
 PostgreSQL, SQL Server, Entity Framework Core (ORM).
 #### Paradigms
-[Data Structure](https://github.com/atikurajib/data-structure), [Algorithm](https://github.com/atikurajib/algorithm), [Object-Oriented Programming](https://github.com/atikurajib/object-oriented-programming), Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern, Event-Driven Architecture, CQRS (Command Query Responsibility Segregation), Dependency Injection.
+[Data Structure](https://github.com/atikurajib/data-structure), [Algorithm](https://github.com/atikurajib/algorithm), [Object-Oriented Programming](https://github.com/atikurajib/object-oriented-programming), Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern, Dependency Injection.
 #### Tools
 Git, Visual Studio Code, Android Studio.
 #### Handles
