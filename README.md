@@ -5,15 +5,15 @@
 I'm pursuing my bachelor's in Software Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/). My journey as a software engineering student is defined by my passion for technology, commitment to learning, and enthusiasm for solving complex problems. I'm excited about the future opportunities that await me and dedicated to making a positive impact through my work in software engineering.
 
 #### Languages
-C-C++, Java, C#, Ruby, HTML-CSS, XML.
+C, C++, [Java](https://github.com/atikurajib/java-programming), [C#](https://github.com/atikurajib/csharp-programming), [Ruby](https://github.com/atikurajib/ruby-programming), HTML, CSS, XML.
 #### Frameworks
-.NET 9, .NET Framework 4.8, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, Blazor, Razor Pages, Bootstrap, Ruby on Rails. 
+.NET 9, .NET Framework 4.8, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, Razor Pages, Blazor, Bootstrap, Ruby on Rails. 
 #### Liabraries and API's
 LINQ, jQuery, Web API, REST API, GraphQL.
 #### Databases   
 PostgreSQL, SQL Server, Entity Framework Core (ORM).
 #### Paradigms
-Data Structure, Algorithm, Object-Oriented Programming, Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern, Event-Driven Architecture, CQRS (Command Query Responsibility Segregation), Dependency Injection.
+[Data Structure](https://github.com/atikurajib/data-structure), [Algorithm](https://github.com/atikurajib/algorithm), [Object-Oriented Programming](https://github.com/atikurajib/object-oriented-programming), Design Principle, Design Pattern, Clean Code and Refactoring, Architecture Pattern, Event-Driven Architecture, CQRS (Command Query Responsibility Segregation), Dependency Injection.
 #### Tools
 Git, Visual Studio Code, Android Studio.
 #### Handles
