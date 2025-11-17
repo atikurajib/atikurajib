@@ -1,4 +1,12 @@
-<p align="center"><h3>👋 Hi there, I'm Atikur Rahman Rajib</h3></p>
+<h3>👋 Hi there, I'm Atikur Rahman Rajib</h3>
+
+* I am working as **AI Enthusiast**
+* Interested in everything **Artificial Intelligence**
+* Currently learning **Machine Learning**
+* **Open Source Software**
+* **Linux** ... it does infinite loops in 5 seconds..
+
+### 🔗 Connect
 
 <p align="center">
   <a href="mailto:atikurajib@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -13,9 +21,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/atikurajib" alt="LinkedIn" height="30" />
   </a>
 </p>
-
-* I am working as **AI Enthusiast**
-* Interested in everything **Artificial Intelligence**
-* Currently learning **Machine Learning**
-* **Open Source Software**
-* **Linux** ... it does infinite loops in 5 seconds..
