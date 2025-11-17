@@ -18,10 +18,12 @@
 ---
   
 <div align="center">
-
+  
+<i>
 📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
 💻 Programming • DevOps • MLOps • AI Architecture • Scientific Research<br/>
 🎮 Games • Sports • Music • Movies • TV-Series
+</i>
 
 </div>
 
