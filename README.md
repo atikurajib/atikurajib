@@ -1,55 +1,35 @@
-<!-- LEFT COLUMN: Profile Text Content (approx. 60% width) -->
-    <td width="60%" valign="top">
-      
-      <!-- Greeting Text -->
-      <div align="center">
-        <span style="font-size: 2em; color: #586e75;">Hello hello</span><br/>
-        <span style="font-size: 1.5em; color: #586e75;">I'm Ing, a tech goblin and magical girl wannabe ☆</span>
-        <br/>
-        <!-- Visual Separator -->
-        <hr style="width: 50%; border: 1px solid #e1e4e8; margin-top: 15px; margin-bottom: 15px;">
-      </div>
+<h3 align="center">Hello, there</h3>
+<h4 align="center">I'm Atikur Rahman Rajib, an AI Developer</h4>
 
-      <!-- Skill and Interest List -->
-      <div align="center">
-        <!-- Main Skills Block -->
-        <p>
-          📚 <b>BSc @ UFMG</b> • Back-end dev • Platform Engineer<br/>
-          💻 System programming languages • DevOps<br/>
-          🖥️ Software architecture • Distributed systems
-        </p>
-        <!-- Interests Block -->
-        <p>
-          🎶 Music • 🎮 Games • 🎬 Anime • 💻 Code • 🎨 Art
-        </p>
-        <!-- Personal Block -->
-        <p>
-          ✨ Muffin 🐰 • 🍰 Cake & Cookie & Pudim & Quindim 🐤🐥
-        </p>
-      </div>
+<br>
 
-      <!-- Small Doodle/GIF (Now using reliable Markdown syntax for the image) -->
-      <div align="center" style="margin-top: 20px;">
-        ![Small animal doodle](./assets/56345.gif)
-      </div>
-    </td>
+<div align="center">
 
-    <!-- RIGHT COLUMN: Illustration (approx. 40% width) -->
-    <td width="40%" align="right" valign="top">
-      <!-- Large Illustration (Now using reliable Markdown syntax for the image) -->
-      ![Illustration of Klee from Genshin Impact](./assets/22265.jpg)
-    </td>
+📚 BSc @ DIU • Backend Developer • AI Developer<br/>
+💻 Programming Languages • DevOps • MLOps<br/>
+🖥️ Software Architecture • Scientific Research 
+🎮 Music • Games • Anime • Sport • Code
+🧁 Muffin • Cake & Cookie • Pudim
 
-    <table width="100%">
-  <tr>
-    <!-- LEFT COLUMN CONTENT HERE -->
-    <td width="60%" valign="top">
-      ... (content from step 1) ...
-    </td>
+</div>
 
-    <!-- RIGHT COLUMN CONTENT HERE -->
-    <td width="40%" align="right" valign="top">
-      ... (content from step 2) ...
-    </td>
-  </tr>
-</table>
+<br><br>
+
+<p align="center">
+  <img src="assets/56345.gif" width="120">
+</p>
+
+<br>
+
+<p align="center">
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atikurajib@gmail.com)
+  [![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://atikurajib.com/)
+  [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atikurajib/)
+  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/atikurajib)
+</p>
+
+<br>
+
+<p align="right">
+  <img src="assets/22265.jpg" width="300">
+</p>
