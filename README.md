@@ -8,7 +8,7 @@
 
 ### 🔗 Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:atikurajib@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=white&link=mailto:atikurajib@gmail.com" alt="Gmail" height="30" />
   </a>
