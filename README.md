@@ -10,9 +10,9 @@
 
       <div align="left" style="padding-left: 20%;">
         <p>
-          📚 BSc @ UFMG • Back-end dev • Platform Engineer<br/>
-          💻 System programming languages • DevOps<br/>
-          🖥️ Software architecture • Distributed systems
+          📚 BSc @ DIU • Backend Developer • AI Developer<br/>
+          💻 Programming Languages • DevOps • MLOps<br/>
+          🖥️ Software Architecture • Scientific Research
         </p>
         <p>
           🎶 Music • 🎮 Games • 🎬 Anime • 💻 Code • 🎨 Art
@@ -23,19 +23,19 @@
       </div>
 
       <div align="center">
-        <img src="path/to/your/small/doodle.gif" alt="Small doodle of an animal" height="50"/>
+        <img src="./Assets/56345.gif" alt="Small doodle of an animal" height="50"/>
       </div>
     </td>
 
     <td width="40%" align="right" valign="top">
-      <img src="path/to/your/genshin_illustration.png" alt="Illustration of Klee" width="100%"/>
+      <img src="./Assets/22265.jpg" alt="Illustration of Klee" width="100%"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-  [![Mastodon](https://img.shields.io/badge/-mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](YOUR_MASTODON_URL_HERE)
-  [![osu!](https://img.shields.io/badge/-osu%21-FF66AA?style=flat-square&logo=osu&logoColor=white)](YOUR_OSU_URL_HERE)
-  [![enka.network](https://img.shields.io/badge/-enka.network-333333?style=flat-square&logo=git&logoColor=white)](YOUR_ENKA_NETWORK_URL_HERE)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atikurajib@gmail.com)
+  [![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://atikurajib.com/)
+  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/atikurajib)
+  [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atikurajib/)
 </p>
