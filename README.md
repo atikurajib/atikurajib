@@ -1,16 +1,20 @@
-<div align="center">
+<table>
+<tr>
+<td width="70%" valign="top">
+  
+<div align="left">
 
-📚 BSc @ DIU • Backend Developer • AI Developer<br/>
-💻 Programming Languages • DevOps • MLOps<br/>
-🖥️ Software Architecture • Scientific Research<br/>
-🎮 Music • Games • Anime • Sport • Code<br/>
+📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
+💻 Programming • DevOps • MLOps<br/>
+🖥️ AI Architecture • Scientific Research<br/>
+🎮 Games • Music • Movies • Sports
 
 </div>
 
 <br><br>
 
 <p align="center">
-  <img src="assets/56345.gif" width="120">
+  <img src="assets/56345.gif" width="100">
 </p>
 
 <br>
@@ -30,7 +34,7 @@
   </a>
   
 <a href="https://ai.stackexchange.com/users/atikurajib">
-    <img src="https://img.shields.io/badge/AI StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white">
+    <img src="https://img.shields.io/badge/AI-1E5297?style=flat&logo=stackexchange&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/atikurajib">
@@ -45,6 +49,14 @@
 
 <br>
 
+</td>
+
+<td width="30%" align="center" valign="top">
+  
 <p align="right">
   <img src="assets/22265.jpg" width="300">
 </p>
+  
+</td>
+</tr>
+</table>
