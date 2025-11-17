@@ -1,8 +1,17 @@
 <table>
 <tr>
 <td width="70%" valign="top">
+
+<div align="center">
   
-<div align="left">
+<h4>👋 Hello, Stranger!</h4>
+My name is Atikur Rahman Rajib. What's about you?
+
+</div>
+
+---
+  
+<div align="center">
 
 📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
 💻 Programming • DevOps • MLOps<br/>
@@ -10,6 +19,8 @@
 🎮 Games • Music • Movies • Sports
 
 </div>
+
+---
 
 <br><br>
 
