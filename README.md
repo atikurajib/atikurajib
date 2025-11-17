@@ -1,15 +1,9 @@
-<h3 align="center">Hello, there</h3>
-<h4 align="center">I'm Atikur Rahman Rajib, an AI Developer</h4>
-
-<br>
-
 <div align="center">
 
 📚 BSc @ DIU • Backend Developer • AI Developer<br/>
 💻 Programming Languages • DevOps • MLOps<br/>
-🖥️ Software Architecture • Scientific Research 
-🎮 Music • Games • Anime • Sport • Code
-🧁 Muffin • Cake & Cookie • Pudim
+🖥️ Software Architecture • Scientific Research<br/>
+🎮 Music • Games • Anime • Sport • Code<br/>
 
 </div>
 
@@ -21,11 +15,32 @@
 
 <br>
 
-<p align="center">
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atikurajib@gmail.com)
-  [![Website](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://atikurajib.com/)
-  [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atikurajib/)
-  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/atikurajib)
+<p align="center" style="margin-top: 30px;">
+  
+<a href="mailto:atikurajib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/users/atikurajib">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white">
+</a>
+
+<a href="https://kaggle.com/atikurajib">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+  </a>
+  
+<a href="https://ai.stackexchange.com/users/atikurajib">
+    <img src="https://img.shields.io/badge/AI StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/atikurajib">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://atikurajib.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=firefox&logoColor=white">
+</a>
+  
 </p>
 
 <br>
