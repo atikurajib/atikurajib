@@ -2,14 +2,16 @@
 <tr>
 <td width="70%" valign="top">
 
+<br>
+
 <p align="center">
-  <img src="assets/56345.gif" width="100">
+  <img src="assets/56345.gif" width="120">
 </p>
 
 <div align="center">
   
 <h4>👋 Hello, Stranger!</h4>
-“Build things that matter.”
+“Build things that matter in future.”
 
 </div>
 
@@ -19,9 +21,11 @@
 
 📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
 💻 Programming • DevOps • MLOps • AI Architecture • Scientific Research<br/>
-🎮 Games • Music • Movies • Sports
+🎮 Games • Sports • Music • Movies • TV-Series
 
 </div>
+
+<br>
 
 <p align="center" style="margin-top: 30px;">
   
@@ -56,7 +60,7 @@
 <td width="30%" align="center" valign="top">
   
 <p align="right">
-  <img src="assets/22265.jpg" width="300">
+  <img src="assets/99999.jpg" width="300">
 </p>
   
 </td>
