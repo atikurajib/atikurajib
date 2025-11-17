@@ -11,7 +11,7 @@
 <div align="center">
   
 <h4>👋 Hello, Stranger!</h4>
-“Build things that matter in future.”
+<i>“Build things that matter in future.”</i>
 
 </div>
 
