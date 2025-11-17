@@ -13,9 +13,13 @@
 <h4>👋 Hello, Stranger!</h4>
 <i>“Build things that matter in future.”</i>
 
+<br>
+
 </div>
 
 ---
+
+<br>
   
 <div align="center">
   
@@ -27,6 +31,7 @@
 
 </div>
 
+<br>
 <br>
 
 <p align="center" style="margin-top: 30px;">
