@@ -62,11 +62,7 @@
 <td width="30%" align="center" valign="top">
 
 <p align="right">
-  <img src="assets/22222.gif" width="300">
-</p>
-
-<p align="right">
-  <img src="assets/76543.gif" width="300">
+  <img src="assets/76543.gif" width="340" height="450">
 </p>
   
 </td>
