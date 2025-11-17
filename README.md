@@ -2,10 +2,14 @@
 <tr>
 <td width="70%" valign="top">
 
+<p align="center">
+  <img src="assets/56345.gif" width="100">
+</p>
+
 <div align="center">
   
 <h4>👋 Hello, Stranger!</h4>
-My name is Atikur Rahman Rajib. What's about you?
+“Build things that matter.”
 
 </div>
 
@@ -14,21 +18,10 @@ My name is Atikur Rahman Rajib. What's about you?
 <div align="center">
 
 📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
-💻 Programming • DevOps • MLOps<br/>
-🖥️ AI Architecture • Scientific Research<br/>
+💻 Programming • DevOps • MLOps • AI Architecture • Scientific Research<br/>
 🎮 Games • Music • Movies • Sports
 
 </div>
-
----
-
-<br><br>
-
-<p align="center">
-  <img src="assets/56345.gif" width="100">
-</p>
-
-<br>
 
 <p align="center" style="margin-top: 30px;">
   
@@ -36,7 +29,7 @@ My name is Atikur Rahman Rajib. What's about you?
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.codechef.com/users/atikurajib">
+<a href="https://www.codechef.com/users/atikurrajib">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white">
 </a>
 
@@ -44,7 +37,7 @@ My name is Atikur Rahman Rajib. What's about you?
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
   </a>
   
-<a href="https://ai.stackexchange.com/users/atikurajib">
+<a href="https://ai.stackexchange.com/users/97674/atikurajib">
     <img src="https://img.shields.io/badge/AI-1E5297?style=flat&logo=stackexchange&logoColor=white">
 </a>
 
@@ -57,8 +50,6 @@ My name is Atikur Rahman Rajib. What's about you?
 </a>
   
 </p>
-
-<br>
 
 </td>
 
