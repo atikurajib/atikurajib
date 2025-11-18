@@ -11,7 +11,7 @@
 
 <div align="center">
   
-<h4>👋 Hello, Stranger!</h4>
+<h3 class="danger-heading">👋 Hello, Stranger!</h3>
 <i>“Build things that matter in future.”</i>
 
 <br>
