@@ -1,28 +1,39 @@
 <table width="100%" style="border: 5px solid; border-color: red;">
 <tr>
 <td width="70%" valign="top">
+  
 <br>
+
 <p align="center">
   <img src="assets/56345.gif" width="120">
 </p>
 
 <div align="center">
+  
 <h4 style="font-family: Impact, sans-serif;">👋 Hello, Stranger!</h4>
-</div>
 <div style="color: #343434;">
 <p><i>“Build things that matter in future.”</i></p>
 </div>
+
+</div>
+
 ---
+
 <br>
+
 <div align="center">
+  
 <i>
 📚 BSc in SWE @ DIU • Backend Development • AI Development<br/>
 💻 Programming • DevOps • MLOps • AI Architecture • Scientific Research<br/>
 🎮 Games • Sports • Music • Movies • TV-Series
 </i>
+
 </div>
+
 <br>
 <br>
+
 <p align="center" style="margin-top: 30px;">
 
 <a href="https://www.codechef.com/users/atikurrajib">
@@ -60,5 +71,7 @@
 </p>
 
 </td>
+
 </tr>
+
 </table>
