@@ -11,7 +11,9 @@
 <div align="center">
   
 <h4 style="font-family: Impact, sans-serif;">👋 Hello, Stranger!</h4>
-<i>“Build things that matter in future.”</i>
+<div style="color: #343434;">
+<p><i>“Build things that matter in future.”</i></p>
+</div>
 
 <br>
 <br>
