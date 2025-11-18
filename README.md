@@ -43,10 +43,6 @@
 <a href="https://kaggle.com/atikurajib">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
   </a>
-  
-<a href="https://ai.stackexchange.com/users/97674/atikurajib">
-    <img src="https://img.shields.io/badge/StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white">
-</a>
 
 <a href="https://linkedin.com/in/atikurajib">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
@@ -54,6 +50,10 @@
 
 <a href="https://forestbee.io">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=firefox&logoColor=white">
+</a>
+
+<a href="https://ai.stackexchange.com/users/97674/atikurajib">
+    <img src="https://img.shields.io/badge/StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white">
 </a>
   
 </p>
