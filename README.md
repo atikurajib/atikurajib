@@ -1,4 +1,4 @@
-<table width="100%" style="border: 2px solid; border-color: black;">
+<table width="100%" style="border: 5px solid; border-color: red;">
 <tr>
 <td width="70%" valign="top">
 
