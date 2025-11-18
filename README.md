@@ -3,7 +3,6 @@
 <td width="70%" valign="top">
 
 <br>
-<br>
 
 <p align="center">
   <img src="assets/56345.gif" width="120">
@@ -11,9 +10,10 @@
 
 <div align="center">
   
-<h3 class="danger-heading">👋 Hello, Stranger!</h3>
+<h4 style="font-family: Impact, sans-serif;">👋 Hello, Stranger!</h4>
 <i>“Build things that matter in future.”</i>
 
+<br>
 <br>
 
 </div>
