@@ -1,12 +1,11 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=atikurajib&color=blue&style=flat" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat" alt="Followers"/>
+</p>
+
 <p align="center">
   <img src="assets/56345.gif" width="120">
 </p>
-
-<div align="center">
-  <div style="color: #343434;">
-    <p><i>“Build things that matter in future.”</i></p>
-  </div>
-</div>
 
 <br>
 
