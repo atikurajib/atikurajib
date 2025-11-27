@@ -1,39 +1,15 @@
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div align="center">
 
-  <!-- Column 1 -->
-  <div>
-    <a href="mailto:atikurajib@email.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat" />
-    </a><br><br>
-    <a href="https://wa.me/+8801747681997">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat" />
-    </a><br><br>
-    <a href="https://theforestbee.com">
-      <img src="https://img.shields.io/badge/Website-4285F4?style=flat" />
-    </a><br><br>
-    <a href="https://www.youtube.com/@theforestbee">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat" />
-    </a>
-  </div>
-
-  <!-- Column 2 -->
-  <div>
-    <a href="https://leetcode.com/atikurajib">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat" />
-    </a><br><br>
-    <a href="https://linkedin.com/in/atikurajib">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" />
-    </a><br><br>
-    <a href="https://instagram.com/atikurajib">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat" />
-    </a><br><br>
-    <a href="https://facebook.com/atikurajib">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat" />
-    </a>
-  </div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:atikurajib@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/+8801747681997)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat)](https://theforestbee.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat)](https://www.youtube.com/@theforestbee)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat)](https://leetcode.com/atikurajib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/atikurajib)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat)](https://instagram.com/atikurajib)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat)](https://facebook.com/atikurajib)
 
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikurajib/atikurajib/output/github-contribution-grid-snake-dark.svg">
