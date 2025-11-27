@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://linkedin.com/in/atikurajib">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://www.codechef.com/users/atikurajib">
