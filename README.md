@@ -1,15 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atikurajib&color=blue&style=flat" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat" alt="Followers"/>
-</p>
-
-<p align="center">
-  <img src="assets/56345.gif" width="120">
-</p>
-
-<br>
-
-<p align="center" style="margin-top: 30px;">
+<p align="left" style="margin-top: 30px;">
   
 <a href="https://theforestbee.com" style="text-decoration:none; margin:0 3px;">
   <img src="https://img.shields.io/badge/Website-4285F4?style=flat" alt="Website"/>
@@ -27,6 +16,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"/>
 </a>
 
-</a>
+</p>
 
+<p align="right">
+![Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat)
+![Views](https://komarev.com/ghpvc/?username=atikurajib&color=blue&style=flat)
 </p>
