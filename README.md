@@ -13,27 +13,27 @@
 <p align="center" style="margin-top: 30px;">
   
 <a href="https://forestbee.io">
-  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white&colorA=000000&colorB=4A4A4A" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
 <a href="https://www.youtube.com/@atikurajib">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white&colorA=FF0000&colorB=D00000" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="https://linkedin.com/in/atikurajib">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=004182" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.codechef.com/users/atikurajib">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white&colorA=5B4638&colorB=3C2E23" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-6C4A32?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
 <a href="https://kaggle.com/atikurajib">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&colorA=20BEFF&colorB=0A9EDB" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
 <a href="https://ai.stackexchange.com/users/97674/atikurajib">
-  <img src="https://img.shields.io/badge/StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white&colorA=1E5297&colorB=153A6E" alt="StackExchange"/>
+  <img src="https://img.shields.io/badge/StackExchange-1E5397?style=flat&logo=stackexchange&logoColor=white" alt="StackExchange"/>
 </a>
 
 </p>
