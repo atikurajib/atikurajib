@@ -1,4 +1,4 @@
-![Views](https://komarev.com/ghpvc/?username=atikurajib&color=blue&style=flat)
+![Viewers](https://komarev.com/ghpvc/?username=atikurajib&label=Viewers&color=blue&style=flat)
 ![Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat)](https://theforestbee.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat)](https://www.youtube.com/@theforestbee)
