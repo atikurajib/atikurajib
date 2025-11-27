@@ -17,23 +17,23 @@
 </a>
 
 <a href="https://www.youtube.com/@atikurajib">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat" alt="YouTube"/>
 </a>
 
 <a href="https://linkedin.com/in/atikurajib">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.codechef.com/users/atikurajib">
-  <img src="https://img.shields.io/badge/CodeChef-6C4A32?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-6C4A32?style=flat" alt="CodeChef"/>
 </a>
 
 <a href="https://kaggle.com/atikurajib">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat" alt="Kaggle"/>
 </a>
 
 <a href="https://ai.stackexchange.com/users/97674/atikurajib">
-  <img src="https://img.shields.io/badge/StackExchange-1E5397?style=flat&logo=stackexchange&logoColor=white" alt="StackExchange"/>
+  <img src="https://img.shields.io/badge/StackExchange-1E5397?style=flat" alt="StackExchange"/>
 </a>
 
 </p>
