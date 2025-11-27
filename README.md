@@ -1,3 +1,7 @@
+<table w style="border: 5px solid; border-color: red;">
+<tr>
+<td width="100%" valign="top">
+<br>
 <p align="center">
   <img src="assets/56345.gif" width="120">
 </p>
@@ -24,3 +28,6 @@
     <img src="https://img.shields.io/badge/StackExchange-1E5297?style=flat&logo=stackexchange&logoColor=white">
 </a>
 </p>
+<td>
+<tr>
+<table>
