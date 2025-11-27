@@ -9,7 +9,7 @@
 
 </div>
 
-<div>
+<div align="right">
   
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat)](https://leetcode.com/atikurajib)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/atikurajib)
