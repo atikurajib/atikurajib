@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikurajib/atikurajib/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikurajib/atikurajib/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/atikurajib/atikurajib/output/github-contribution-grid-snake.svg">
-</picture>
-
+![GitHub Snake](https://raw.githubusercontent.com/atikurajib/atikurajib/output/github-contribution-grid-snake.gif)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:atikurajib@email.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/+8801747681997)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat)](https://theforestbee.com)
