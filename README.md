@@ -20,20 +20,14 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat" alt="YouTube"/>
 </a>
 
+<a href="https://leetcode.com/atikurajib" style="text-decoration:none; margin:0 3px;">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat" alt="LeetCode"/>
+</a>
+
 <a href="https://linkedin.com/in/atikurajib"  style="text-decoration:none; margin:0 3px;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.codechef.com/users/atikurajib" style="text-decoration:none; margin:0 3px;">
-  <img src="https://img.shields.io/badge/CodeChef-6C4A32?style=flat" alt="CodeChef"/>
-</a>
-
-<a href="https://kaggle.com/atikurajib" style="text-decoration:none; margin:0 3px;">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat" alt="Kaggle"/>
-</a>
-
-<a href="https://ai.stackexchange.com/users/97674/atikurajib" style="text-decoration:none; margin:0 3px;">
-  <img src="https://img.shields.io/badge/StackExchange-1E5397?style=flat" alt="StackExchange"/>
 </a>
 
 </p>
