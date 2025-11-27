@@ -1,6 +1,6 @@
 <table width="100%" style="border: 5px solid; border-color: red;">
 <tr>
-<td width="70%" valign="top">
+<td width="100%" valign="top">
 <br>
 <p align="center">
   <img src="assets/56345.gif" width="120">
