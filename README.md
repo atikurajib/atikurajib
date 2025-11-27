@@ -2,5 +2,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@theforestbee)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/atikurajib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atikurajib)
-![Profile Views](https://komarev.com/ghpvc/?username=atikurajib&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat)
+<p align="right">
+  ![Views](https://komarev.com/ghpvc/?username=atikurajib&label=Views&color=blue&style=flat)
+  ![Followers](https://img.shields.io/github/followers/atikurajib?label=Followers&style=flat)
+</p>
