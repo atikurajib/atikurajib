@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-73AC22?style=flat)](mailto:atikurajib@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A1860?style=flat)](https://atikurajib.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7F7428?style=flat)](https://leetcode.com/atikurajib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-354F99style=flat)](https://linkedin.com/in/atikurajib)
+[![Email](https://img.shields.io/badge/Email-5C3C30?style=flat)](mailto:atikurajib@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E27FE?style=flat)](https://atikurajib.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFDE59?style=flat)](https://leetcode.com/atikurajib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5DE2E7?style=flat)](https://linkedin.com/in/atikurajib)
 
 </div>
 
