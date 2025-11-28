@@ -1,13 +1,10 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:atikurajib@email.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat)](https://wa.me/+8801747681997)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat)](https://theforestbee.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat)](https://www.youtube.com/@theforestbee)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat)](https://leetcode.com/atikurajib)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://linkedin.com/in/atikurajib)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat)](https://instagram.com/atikurajib)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat)](https://facebook.com/atikurajib)
 
 </div>
 
